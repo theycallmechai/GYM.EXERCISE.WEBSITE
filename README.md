@@ -1,3 +1,8 @@
-# GYM.EXERCISE.WEBSITE
-A GYM exerrcise app using react and rapid api
-Have also used material UI to make the App Aesthetically more appealing
+# React Fitness Application
+
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+
+### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
